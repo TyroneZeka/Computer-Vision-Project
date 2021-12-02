@@ -14,3 +14,9 @@ We propose to use the [COVID-19 images dataset](https://github.com/prajnasb/obse
 
 ## Computational Resources
 A laptop is sufficient to run the model. We are going to use python programming language since it is supported by many IDEs
+
+
+## Evaluation
+The system is designed to detect whether a face has a mask or not
+
+![](evaluation.jpg)
