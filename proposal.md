@@ -18,5 +18,5 @@ A laptop is sufficient to run the model. We are going to use python programming 
 
 ## Evaluation
 The system is designed to detect whether a face has a mask or not
-
+If not a face mask the system  makes a beeping sound else nothing happens.
 ![](evaluation.jpg)
